@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+}
+
+.tabel {
+    margin: 0 auto;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.tabel td {
+    text-align: center;
+}
+
+.tabel thead {
+    background-color: rgb(12, 200, 12);
+}
+
+input[type="submit"] {
+    width: 200px;
+    padding: 10px;
+    background-color: darkgreen;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.submit-btn {
+    display: grid;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.hasil thead {
+    background-color: rgb(12, 200, 12);
+}
+
+.hasil {
+    margin: 0 auto;
+}
+
+p {
+    text-align: center;
+}
