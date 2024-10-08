@@ -1,0 +1,12 @@
+{
+    "name": "andra/pemnet4",
+    "description": "a simple php application to manage file in the folder pemnet4",
+    "require": {},
+    
+        "autoload": {
+            "psr-4": {
+                "Pemnet\\": "pemnet4/"
+            }
+        }
+}
+
